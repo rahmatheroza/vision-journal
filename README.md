@@ -18,7 +18,7 @@ Each post focuses on a key concept, includes real-world applications, and is pai
 
 | Week | Topic | Notebook |
 |------|-------------------------------|----------|
-| ✅ 1 | [What is Computer Vision?](posts/01-what-is-cv.md) | [Colab](notebooks/01_what_is_cv.ipynb) |
+| ✅ 1 | [What is Computer Vision?](posts/01-what-is-cv.md) | [Colab](notebooks/01-what-is-cv.ipynb) |
 | ⏳ 2 | Pixels, Colors, and Formats | Coming soon |
 | ⏳ 3 | Image Processing with OpenCV | Coming soon |
 | ⏳ 4 | Image Classification Basics | Coming soon |

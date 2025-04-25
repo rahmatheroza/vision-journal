@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cover-banner.png" alt="Repo Banner" />
+</p>
+
 # Computer Vision From Scratch – A Blog & Code Series
 
 Welcome! This is an open learning journey where I explore **Computer Vision** from the ground up by writing blog posts and code tutorials.  

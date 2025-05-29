@@ -49,10 +49,6 @@ Image → Preprocessing → Feature Extraction → Interpretation → Output
 ---
 
 ## 🚀 5. Hands-On Practice
-
-A simple computer vision application pipeline to classify an image. 
 👉 [Click here to open the notebook on Google Colab](https://github.com/rahmatheroza/vision-journal/blob/main/notebooks/01-what-is-cv.ipynb)
-
-It includes code examples and visualizations to strengthen your understanding.
 
 ---

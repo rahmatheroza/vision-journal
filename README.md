@@ -22,8 +22,8 @@ Each post focuses on a key concept, includes real-world applications, and is pai
 
 | Week | Topic | Notebook |
 |------|-------------------------------|----------|
-| ✅ 1 | [What is Computer Vision?](posts/01-what-is-cv.md) | [Colab](notebooks/01-what-is-cv.ipynb) |
-| ⏳ 2 | Pixels, Colors, and Formats | Coming soon |
+| ✅ 1 | [What is Computer Vision?](posts/01-what-is-cv.md) | [Google Colaboratory](notebooks/01-what-is-cv.ipynb) |
+| ✅ 2 | [Pixels, Colors, and Formats](posts/02-pixels-colors-formats.md) | [Google Colaboratory](notebooks/02-pixels-colors-formats.ipynb) |
 | ⏳ 3 | Image Processing with OpenCV | Coming soon |
 | ⏳ 4 | Image Classification Basics | Coming soon |
 

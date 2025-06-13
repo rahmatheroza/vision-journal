@@ -24,7 +24,7 @@ Each post focuses on a key concept, includes real-world applications, and is pai
 |------|-------------------------------|----------|
 | ✅ 1 | [What is Computer Vision?](posts/01-what-is-cv.md) | [Google Colaboratory](notebooks/01-what-is-cv.ipynb) |
 | ✅ 2 | [Pixels, Colors, and Formats](posts/02-pixels-colors-formats.md) | [Google Colaboratory](notebooks/02-pixels-colors-formats.ipynb) |
-| ⏳ 3 | Image Processing with OpenCV | Coming soon |
+| ✅ 3 | [Image Processing with OpenCV](posts/03-image-processing-with-opencv.md) | [Google Colaboratory](notebooks/03-image-processing-with-opencv.ipynb) |
 | ⏳ 4 | Image Classification Basics | Coming soon |
 
 ---
